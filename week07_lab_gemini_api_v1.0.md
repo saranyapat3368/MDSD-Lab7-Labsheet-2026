@@ -506,9 +506,9 @@ flutter run
 
 > ✅ **Checkpoint 1.2** ถ่ายภาพหน้าจอที่แสดงการตั้งค่า Structured Output และผลลัพธ์ที่ได้ อธิบายว่าผลลัพธ์ที่ได้ต่างจากตอนไม่เปิด Structured Output ในขั้นตอน 1.1 อย่างไร (อ้างอิงบทหนังสือเรียนหัวข้อ 7.4)
 
-```text
-บันทึกผลลัพธ์ที่นี่
-```
+![](https://github.com/user-attachments/assets/33338a2f-6c85-47a4-904f-349366f697c6)
+![](https://github.com/user-attachments/assets/3d3bd63a-53fd-4b72-8153-ad877208e10c)
+
 
 ---
 
